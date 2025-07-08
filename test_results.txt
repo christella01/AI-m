@@ -1,0 +1,5 @@
+Patient: John Doe
+Age: 45
+White blood cell count: 13,000 /µL (Normal: 4,500 - 11,000)
+Blood pressure: 160/100 mmHg
+Temperature: 38.5°C
